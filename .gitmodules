@@ -8,3 +8,7 @@
 [submodule "glitter"]
 	path = glitter
 	url = https://github.com/lvaudor/glitter
+[submodule "testthat"]
+	path = testthat
+	url = https://github.com/r-lib/testthat
+	registered = false
