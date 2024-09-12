@@ -1,5 +1,10 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/inventionate/inventionate.r-universe.dev
 	branch = HEAD
+[submodule "TimeSpaceAnalysis"]
+	path = TimeSpaceAnalysis
+	url = https://github.com/inventionate/TimeSpaceAnalysis
+[submodule "glitter"]
+	path = glitter
+	url = https://github.com/lvaudor/glitter
