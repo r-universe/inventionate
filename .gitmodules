@@ -5,7 +5,3 @@
 [submodule "TimeSpaceAnalysis"]
 	path = TimeSpaceAnalysis
 	url = https://github.com/inventionate/TimeSpaceAnalysis
-[submodule "testthat"]
-	path = testthat
-	url = https://github.com/r-lib/testthat
-	registered = false
